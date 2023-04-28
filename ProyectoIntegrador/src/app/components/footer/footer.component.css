@@ -9,3 +9,8 @@ footer{
     flex-direction: column;
     text-align: center;
 }
+
+a:link, a:visited,  a:hover, a:active{
+    color: #fefefe;
+    text-decoration: none;
+}
