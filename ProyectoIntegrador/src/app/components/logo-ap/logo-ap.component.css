@@ -1,4 +1,14 @@
+*{
+    display: flex;
+    justify-content: space-between;
+}
+
 #logoap{
     width: 150px;
     padding: 15px;
+}
+
+img{
+    width: 70px;
+    padding: 10px;
 }
