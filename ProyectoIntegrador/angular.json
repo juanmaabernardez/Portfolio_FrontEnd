@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Users/usuario/Desktop/Proyecto Integrador/PoryectoIntegrador_Bernardez/ProyectoIntegrador/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "C:/Users/usuario/Desktop/Proyecto Integrador/PoryectoIntegrador_Bernardez/ProyectoIntegrador/node_modules/bootstrap/dist/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "aa2f664f-1bfa-4036-9de6-a3cf4e866657"
   }
 }

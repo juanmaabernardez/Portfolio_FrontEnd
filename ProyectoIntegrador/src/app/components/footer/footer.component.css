@@ -1,0 +1,11 @@
+.row{
+    background: linear-gradient(to top, #a1b5cb, rgb(159, 179, 220));
+}
+
+footer{
+    color: #fefefe;
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}

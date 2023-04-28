@@ -1,0 +1,15 @@
+.row{
+    padding: 20px;
+}
+
+div{
+    background: linear-gradient(to top, #a1b5cb, rgb(159, 179, 220));
+}
+
+h1{
+    padding: 15px;
+}
+
+h2, h4{
+    display: inline;
+}
