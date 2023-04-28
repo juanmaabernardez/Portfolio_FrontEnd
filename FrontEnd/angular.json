@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "C:/Users/usuario/Desktop/Proyecto Integrador/PoryectoIntegrador_Bernardez/ProyectoIntegrador/node_modules/bootstrap/dist/css/bootstrap.css"
+              "C:/Users/usuario/Desktop/Proyecto Integrador/PoryectoIntegrador_Bernardez/FrontEnd/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
             "scripts": [
-              "C:/Users/usuario/Desktop/Proyecto Integrador/PoryectoIntegrador_Bernardez/ProyectoIntegrador/node_modules/bootstrap/dist/js/bootstrap.js"
+              "C:/Users/usuario/Desktop/Proyecto Integrador/PoryectoIntegrador_Bernardez/FrontEnd/node_modules/bootstrap/dist/js/bootstrap.js"
             ]
           },
           "configurations": {
