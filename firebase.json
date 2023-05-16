@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site" : "juan_frontend",
+    "public": "dist/proyecto-integrador",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
